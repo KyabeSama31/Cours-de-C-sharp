@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\obj\Debug\netcoreapp3.1\CoursCsharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\obj\Debug\netcoreapp3.1\CoursCsharp.AssemblyInfo.cs
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\bin\Debug\netcoreapp3.1\CoursCsharp.exe
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\bin\Debug\netcoreapp3.1\CoursCsharp.deps.json
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\bin\Debug\netcoreapp3.1\CoursCsharp.runtimeconfig.json
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\bin\Debug\netcoreapp3.1\CoursCsharp.runtimeconfig.dev.json
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\bin\Debug\netcoreapp3.1\CoursCsharp.dll
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\bin\Debug\netcoreapp3.1\CoursCsharp.pdb
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\obj\Debug\netcoreapp3.1\CoursCsharp.dll
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\obj\Debug\netcoreapp3.1\CoursCsharp.pdb
+C:\Users\user\Desktop\prog\csharp\CoursCsharp\CoursCsharp\obj\Debug\netcoreapp3.1\CoursCsharp.csprojAssemblyReference.cache
